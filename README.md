@@ -46,7 +46,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OINUMAKAZUKI&theme=tokyonight&hide_border=true)
 
-</div>
+</div> -->
 
 ## 🏆 GitHub Trophies
 
